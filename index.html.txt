@@ -1,0 +1,116 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Termini e Condizioni d’Uso – Piattaforma Etica</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: url('sfondo.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #000;
+    }
+    header {
+      background-color: #c8e36a;
+      padding: 15px;
+      text-align: center;
+      font-size: 1.5em;
+    }
+    main {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background: rgba(255,255,255,0.95);
+      border-radius: 10px;
+      line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 25px;
+    }
+    .logo {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .logo img {
+      max-width: 180px;
+      height: auto;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      background-color: #e0e878;
+      padding: 10px;
+    }
+    footer a {
+      color: #000;
+      text-decoration: none;
+      margin: 0 5px;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <a href="index.html">Menù</a>
+</header>
+
+<main>
+  <div class="logo">
+    <img src="immagine1.jpg" alt="Logo Piattaforma Etica">
+  </div>
+
+  <h1>📜 3. Termini e Condizioni d’Uso</h1>
+  <p><strong>Ultimo aggiornamento:</strong> 25/08/2025</p>
+
+  <p>Benvenuto su Piattaforma Etica Autonoma. Utilizzando questa piattaforma, l’utente accetta i seguenti termini:</p>
+
+  <h2>1. Accesso e registrazione</h2>
+  <ul>
+    <li>La registrazione è gratuita e aperta a tutti.</li>
+    <li>L’utente è responsabile delle informazioni inserite nel proprio profilo.</li>
+  </ul>
+
+  <h2>2. Regole di comportamento</h2>
+  <ul>
+    <li>Usare la piattaforma con rispetto e correttezza.</li>
+    <li>Non pubblicare contenuti offensivi, discriminatori o illegali.</li>
+    <li>Non chiedere o offrire denaro (la piattaforma è gratuita e meritocratica).</li>
+  </ul>
+
+  <h2>3. Proprietà dei contenuti</h2>
+  <ul>
+    <li>I progetti pubblicati rimangono di proprietà dell’autore.</li>
+    <li>Pubblicando un progetto, l’utente autorizza la piattaforma a mostrarlo pubblicamente.</li>
+  </ul>
+
+  <h2>4. Responsabilità</h2>
+  <p>
+    La piattaforma non è responsabile dei contenuti pubblicati dagli utenti, né di eventuali usi impropri da parte di terzi.
+  </p>
+
+  <h2>5. Modifiche ai Termini</h2>
+  <p>
+    La piattaforma può aggiornare questi termini in qualsiasi momento. Gli utenti verranno avvisati in caso di modifiche rilevanti.
+  </p>
+</main>
+
+<footer>
+  © 2025 Piattaforma Etica |
+  <a href="https://antonello2907.github.io/contatti/">Contatti</a> |
+  <a href="https://antonello2907.github.io/privacy/">Privacy</a> |
+  <a href="https://antonello2907.github.io/cookie-policy/">Cookie</a> |
+  <a href="termini.html">Termini</a>
+</footer>
+
+</body>
+</html>
